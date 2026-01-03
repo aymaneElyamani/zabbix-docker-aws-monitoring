@@ -1,13 +1,15 @@
-# Projet : Mise en œuvre d’une infrastructure cloud de supervision centralisée sous AWS
+
 
 <div align="center">
 
 ![Logo établissement (placeholder)](images/logo-mundiapolis.png)
 
-**Titre du projet :** Mise en œuvre d’une infrastructure cloud de supervision centralisée sous AWS  
-**Sous-titre :** Déploiement de Zabbix conteneurisé (Docker) pour le monitoring d’un parc hybride (Linux & Windows)
-**Étudiant :** Aymane El yamani            **Encadrant :** Prof. Azeddine KHIAT  
-**Filière :** 2ANCI - Génie Informatique   **Année universitaire :** 2025/2026
+# Projet : Mise en œuvre d’une infrastructure cloud de supervision centralisée sous AWS 
+## Déploiement de Zabbix conteneurisé (Docker) pour le monitoring d’un parc hybride (Linux & Windows)
+
+**Étudiant :** Aymane El yamani  **Encadrant :** Prof. Azeddine KHIAT
+
+**Filière :** 2ANCI - Génie Informatique  **Année universitaire :** 2025/2026
 
 **Image du projet (depuis `/images`)**
 
