@@ -2,6 +2,11 @@
 
 ## README — Rapport technique (format GitHub)
 
+## Guide étape par étape (déploiement AWS + Zabbix Docker)
+
+Le guide opérationnel (pas à pas) est disponible ici :
+- [GUIDE-AWS-ZABBIX.md](GUIDE-AWS-ZABBIX.md)
+
 ---
 
 # 1. Page de garde
@@ -598,11 +603,5 @@ Dans un contexte réel, les SI sont rarement homogènes. La supervision hybride 
 
 # 10. Lien GitHub
 
-Dépôt GitHub (à adapter si nécessaire) :
+Dépôt GitHub :
 - https://github.com/aymaneElyamani/zabbix-docker-aws-monitoring
-
-Le dépôt doit contenir a minima :
-- ce README (documentation détaillée) ;
-- `docker-compose.yml` (déploiement Zabbix) ;
-- scripts/notes de configuration agents (Linux/Windows) ;
-- captures d’écran et diagrammes (`/images`).
