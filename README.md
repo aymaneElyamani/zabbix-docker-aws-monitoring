@@ -11,22 +11,37 @@ Le guide opérationnel (pas à pas) est disponible ici :
 
 # 1. Page de garde
 
+<div align="center">
+
 ![Logo établissement (placeholder)](images/logo-mundiapolis.png)
 
 **Titre du projet :** Mise en œuvre d’une infrastructure cloud de supervision centralisée sous AWS  
 **Sous-titre :** Déploiement de Zabbix conteneurisé (Docker) pour le monitoring d’un parc hybride (Linux & Windows)
 
-| Élément | Information |
-|---|---|
-| **Nom étudiant** | **Aymane El yamani** |
-| **Encadrant** | **Prof. Azeddine KHIAT** |
-| **Filière** | **2ANCI — Génie Informatique** |
-| **Année universitaire** | **2025/2026** |
-| **Date** | 03 janvier 2026 |
+<table>
+  <tr>
+    <td><b>Étudiant :</b></td>
+    <td>Aymane El yamani</td>
+  </tr>
+  <tr>
+    <td><b>Encadrant :</b></td>
+    <td>Prof. Azeddine KHIAT</td>
+  </tr>
+  <tr>
+    <td><b>Filière :</b></td>
+    <td>2ANCI - Génie Informatique</td>
+  </tr>
+  <tr>
+    <td><b>Année universitaire :</b></td>
+    <td>2025/2026</td>
+  </tr>
+</table>
 
 **Image du projet (depuis `/images`)**
 
 ![Tableau de bord Zabbix](images/16-dashboard-zabbix.png)
+
+</div>
 
 ---
 
