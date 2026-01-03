@@ -11,9 +11,7 @@
 
 **Filière :** 2ANCI - Génie Informatique  **Année universitaire :** 2025/2026
 
-**Image du projet (depuis `/images`)**
-
-![Tableau de bord Zabbix](images/16-dashboard-zabbix.png)
+![Image du projet](images/image-du-projet.svg)
 
 </div>
 
